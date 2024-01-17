@@ -19,7 +19,7 @@ crash.*.log
 # tfvars files, which likely
 # contain sensitive data
 ############################
-*.tfvars
+#*.tfvars
 *.tfvars.json
 
 # remote_backend - which is
